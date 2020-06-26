@@ -84,16 +84,16 @@ IntelliJ를 사용할때에 코딩을 할때 import를 직접 쓰지 말고 검�
 4. index 페이지 만들기 
 	spring-boot에서는 static 폴더(단어 틀리면 작동 안함)의 index.html 파일을 메인페이지로 자동 매핑을 해준다.	따라서 특별한 설정없이 메인페이지가 올라온다.
 	---
-	<!DOCTYPE html>
-	<html lang="en">
-	<head>
-	    <meta charset="UTF-8">
-	    <title>페이지 제목</title>
-	</head>
-	<body>
-		인덱스 페이지 입니다
-	</body>
-	</html>
+		<!DOCTYPE html>
+		<html lang="en">
+		<head>
+		    <meta charset="UTF-8">
+		    <title>페이지 제목</title>
+		</head>
+		<body>
+			인덱스 페이지 입니다
+		</body>
+		</html>
 	---
 
 	접근하기: 'http://localhost:8080/', 

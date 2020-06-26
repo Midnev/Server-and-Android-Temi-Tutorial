@@ -25,10 +25,10 @@
 
 	-추가해야할 것2 : dependencies : ',' 콤마 구분이 아니니 다른 라이브러리랑 모양을 맞춰서 넣자
 	---
-	implementation 'com.google.firebase:firebase-analytics:17.2.0'
-    implementation 'com.google.firebase:firebase-messaging:20.0.0'
-    implementation 'com.robotemi:sdk:0.10.53'
-    implementation 'com.loopj.android:android-async-http:1.4.9'
+		implementation 'com.google.firebase:firebase-analytics:17.2.0'
+	    implementation 'com.google.firebase:firebase-messaging:20.0.0'
+	    implementation 'com.robotemi:sdk:0.10.53'
+	    implementation 'com.loopj.android:android-async-http:1.4.9'
 	---
 
 	- 각각 : 파이어베이스 분석, 파이어베이스 메세징, 테미, http 요청 라이브러리 이다.
