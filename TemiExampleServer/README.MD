@@ -39,13 +39,13 @@ IntelliJ를 사용할때에 코딩을 할때 import를 직접 쓰지 말고 검�
 		    <artifactId>temiexampleserver</artifactId>
 		    <version>1.0-SNAPSHOT</version>
 		    <dependencies><!--라이브러리들을 선언하는 태그-->
-	        	<!--스프링 기본 라이브러리 전언-->
+	        	<!--스프링 기본 라이브러리 선언-->
 		        <dependency>
 		            <groupId>org.springframework.boot</groupId>
 		            <artifactId>spring-boot-starter-web</artifactId>
 		            <version>2.1.6.RELEASE</version>
 		        </dependency>
-		        <!--스프링 자동 스캔을 위한 라이브러리 전언-->
+		        <!--스프링 자동 스캔을 위한 라이브러리 선언-->
 		        <dependency>
 		            <groupId>org.springframework.boot</groupId>
 		            <artifactId>spring-boot-autoconfigure</artifactId>
