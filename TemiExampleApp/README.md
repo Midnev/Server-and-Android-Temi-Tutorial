@@ -16,6 +16,9 @@
  	- http > HttpManager : http 요청을 할 수 있도록 코드 정리
 
 2. Temi & Firebase 설정
+	- firebase app 등록 > 인증서 다운(Firebase SDK)
+	- 해당 파일은 앱 프로젝트 최상위 폴더에 놓는다.
+
 	- Gradle Scripts 정리 파일에 build.gradle(Module: app) 파일이 있다.
 	- 추가해야할 것1 : 파이어베이스용 구글 서비스
 	---
