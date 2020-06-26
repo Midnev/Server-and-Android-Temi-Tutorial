@@ -1,5 +1,7 @@
 사전 설치 권장사항
  - AndroidStudio
+ 사전 프로젝트 생성: firebase (https://console.firebase.google.com/)
+ 구글 플랫폼에서 무언가를 할것이 아니면 딱히 Blaze 요금제가 아나여도 된다.
 
  안드로이드 프로젝트이지만, 
  테미/Firebase 라이브러리가 있어 테미 이외에 실행되지 않는 것이 정상이다.
